@@ -1,0 +1,920 @@
+sentence,entity,label
+United Nations filed a case under Criminal Procedure Code in Mumbai.,Criminal Procedure Code,PROVISION
+United Nations filed a case under Criminal Procedure Code in Mumbai.,United Nations,ORG
+United Nations filed a case under Criminal Procedure Code in Mumbai.,Mumbai,LOC
+"The agreement was made between Aarav Mehta and United Nations on March 5, 2023.",Aarav Mehta,PERSON
+"The agreement was made between Aarav Mehta and United Nations on March 5, 2023.","March 5, 2023",DATE
+"The agreement was made between Aarav Mehta and United Nations on March 5, 2023.",United Nations,ORG
+Ravi Kumar from Mumbai challenged Data Protection Act on 2022/01/12.,Ravi Kumar,PERSON
+Ravi Kumar from Mumbai challenged Data Protection Act on 2022/01/12.,12-01-2022,DATE
+Ravi Kumar from Mumbai challenged Data Protection Act on 2022/01/12.,Data Protection Act,PROVISION
+Ravi Kumar from Mumbai challenged Data Protection Act on 2022/01/12.,Mumbai,LOC
+OpenAI filed a case under Criminal Procedure Code in Mumbai.,Criminal Procedure Code,PROVISION
+OpenAI filed a case under Criminal Procedure Code in Mumbai.,OpenAI,ORG
+OpenAI filed a case under Criminal Procedure Code in Mumbai.,Mumbai,LOC
+Emma Watson from Bangalore challenged Data Protection Act on 12.01.2022.,Emma Watson,PERSON
+Emma Watson from Bangalore challenged Data Protection Act on 12.01.2022.,12.01.2022,DATE
+Emma Watson from Bangalore challenged Data Protection Act on 12.01.2022.,Data Protection Act,PROVISION
+Emma Watson from Bangalore challenged Data Protection Act on 12.01.2022.,Bangalore,LOC
+"The agreement was made between Aarav Mehta and OpenAI on March 5, 2023.",Aarav Mehta,PERSON
+"The agreement was made between Aarav Mehta and OpenAI on March 5, 2023.","March 5, 2023",DATE
+"The agreement was made between Aarav Mehta and OpenAI on March 5, 2023.",OpenAI,ORG
+Infosys announced a policy change on 12th Jan 2022 in accordance with Criminal Procedure Code.,12th Jan 2022,DATE
+Infosys announced a policy change on 12th Jan 2022 in accordance with Criminal Procedure Code.,Criminal Procedure Code,PROVISION
+Infosys announced a policy change on 12th Jan 2022 in accordance with Criminal Procedure Code.,Infosys,ORG
+The agreement was made between Emma Watson and OpenAI on 31st December 2024.,Emma Watson,PERSON
+The agreement was made between Emma Watson and OpenAI on 31st December 2024.,31st December 2024,DATE
+The agreement was made between Emma Watson and OpenAI on 31st December 2024.,OpenAI,ORG
+Aarav Mehta signed the contract on 12th Jan 2022 under Section 54.,Aarav Mehta,PERSON
+Aarav Mehta signed the contract on 12th Jan 2022 under Section 54.,12th Jan 2022,DATE
+Aarav Mehta signed the contract on 12th Jan 2022 under Section 54.,Section 54,PROVISION
+Google LLC announced a policy change on 12.01.2022 in accordance with Data Protection Act.,12.01.2022,DATE
+Google LLC announced a policy change on 12.01.2022 in accordance with Data Protection Act.,Data Protection Act,PROVISION
+Google LLC announced a policy change on 12.01.2022 in accordance with Data Protection Act.,Google LLC,ORG
+Google LLC filed a case under Data Protection Act in London.,Data Protection Act,PROVISION
+Google LLC filed a case under Data Protection Act in London.,Google LLC,ORG
+Google LLC filed a case under Data Protection Act in London.,London,LOC
+"According to Data Protection Act, the meeting in Bangalore was justified.",Data Protection Act,PROVISION
+"According to Data Protection Act, the meeting in Bangalore was justified.",Bangalore,LOC
+Google LLC announced a policy change on 31st December 2024 in accordance with Criminal Procedure Code.,31st December 2024,DATE
+Google LLC announced a policy change on 31st December 2024 in accordance with Criminal Procedure Code.,Criminal Procedure Code,PROVISION
+Google LLC announced a policy change on 31st December 2024 in accordance with Criminal Procedure Code.,Google LLC,ORG
+Emma Watson signed the contract on 12.01.2022 under Article 21.,Emma Watson,PERSON
+Emma Watson signed the contract on 12.01.2022 under Article 21.,12.01.2022,DATE
+Emma Watson signed the contract on 12.01.2022 under Article 21.,Article 21,PROVISION
+Tata Group filed a case under Article 21 in New York.,Article 21,PROVISION
+Tata Group filed a case under Article 21 in New York.,Tata Group,ORG
+Tata Group filed a case under Article 21 in New York.,New York,LOC
+"According to Section 377, the meeting in London was justified.",Section 377,PROVISION
+"According to Section 377, the meeting in London was justified.",London,LOC
+United Nations filed a case under Data Protection Act in New York.,Data Protection Act,PROVISION
+United Nations filed a case under Data Protection Act in New York.,United Nations,ORG
+United Nations filed a case under Data Protection Act in New York.,New York,LOC
+United Nations announced a policy change on 12.01.2022 in accordance with Criminal Procedure Code.,12.01.2022,DATE
+United Nations announced a policy change on 12.01.2022 in accordance with Criminal Procedure Code.,Criminal Procedure Code,PROVISION
+United Nations announced a policy change on 12.01.2022 in accordance with Criminal Procedure Code.,United Nations,ORG
+John Smith from Mumbai challenged Criminal Procedure Code on 31st December 2024.,John Smith,PERSON
+John Smith from Mumbai challenged Criminal Procedure Code on 31st December 2024.,31st December 2024,DATE
+John Smith from Mumbai challenged Criminal Procedure Code on 31st December 2024.,Criminal Procedure Code,PROVISION
+John Smith from Mumbai challenged Criminal Procedure Code on 31st December 2024.,Mumbai,LOC
+Tata Group announced a policy change on 12th Jan 2022 in accordance with Criminal Procedure Code.,12th Jan 2022,DATE
+Tata Group announced a policy change on 12th Jan 2022 in accordance with Criminal Procedure Code.,Criminal Procedure Code,PROVISION
+Tata Group announced a policy change on 12th Jan 2022 in accordance with Criminal Procedure Code.,Tata Group,ORG
+The agreement was made between Ravi Kumar and OpenAI on 2022/01/12.,Ravi Kumar,PERSON
+The agreement was made between Ravi Kumar and OpenAI on 2022/01/12.,12-01-2022,DATE
+The agreement was made between Ravi Kumar and OpenAI on 2022/01/12.,OpenAI,ORG
+John Smith signed the contract on 31st December 2024 under Data Protection Act.,John Smith,PERSON
+John Smith signed the contract on 31st December 2024 under Data Protection Act.,31st December 2024,DATE
+John Smith signed the contract on 31st December 2024 under Data Protection Act.,Data Protection Act,PROVISION
+"According to Data Protection Act, the meeting in Bangalore was justified.",Data Protection Act,PROVISION
+"According to Data Protection Act, the meeting in Bangalore was justified.",Bangalore,LOC
+"According to Section 54, the meeting in Bangalore was justified.",Section 54,PROVISION
+"According to Section 54, the meeting in Bangalore was justified.",Bangalore,LOC
+Emma Watson signed the contract on 12th Jan 2022 under Article 21.,Emma Watson,PERSON
+Emma Watson signed the contract on 12th Jan 2022 under Article 21.,12th Jan 2022,DATE
+Emma Watson signed the contract on 12th Jan 2022 under Article 21.,Article 21,PROVISION
+"Anita Kapoor from London challenged Criminal Procedure Code on March 5, 2023.",Anita Kapoor,PERSON
+"Anita Kapoor from London challenged Criminal Procedure Code on March 5, 2023.","March 5, 2023",DATE
+"Anita Kapoor from London challenged Criminal Procedure Code on March 5, 2023.",Criminal Procedure Code,PROVISION
+"Anita Kapoor from London challenged Criminal Procedure Code on March 5, 2023.",London,LOC
+Aarav Mehta signed the contract on 2022/01/12 under Article 21.,Aarav Mehta,PERSON
+Aarav Mehta signed the contract on 2022/01/12 under Article 21.,12-01-2022,DATE
+Aarav Mehta signed the contract on 2022/01/12 under Article 21.,Article 21,PROVISION
+Ravi Kumar from Bangalore challenged Article 21 on 12th Jan 2022.,Ravi Kumar,PERSON
+Ravi Kumar from Bangalore challenged Article 21 on 12th Jan 2022.,12th Jan 2022,DATE
+Ravi Kumar from Bangalore challenged Article 21 on 12th Jan 2022.,Article 21,PROVISION
+Ravi Kumar from Bangalore challenged Article 21 on 12th Jan 2022.,Bangalore,LOC
+"Ravi Kumar signed the contract on March 5, 2023 under Criminal Procedure Code.",Ravi Kumar,PERSON
+"Ravi Kumar signed the contract on March 5, 2023 under Criminal Procedure Code.","March 5, 2023",DATE
+"Ravi Kumar signed the contract on March 5, 2023 under Criminal Procedure Code.",Criminal Procedure Code,PROVISION
+Ravi Kumar from Mumbai challenged Criminal Procedure Code on 12th Jan 2022.,Ravi Kumar,PERSON
+Ravi Kumar from Mumbai challenged Criminal Procedure Code on 12th Jan 2022.,12th Jan 2022,DATE
+Ravi Kumar from Mumbai challenged Criminal Procedure Code on 12th Jan 2022.,Criminal Procedure Code,PROVISION
+Ravi Kumar from Mumbai challenged Criminal Procedure Code on 12th Jan 2022.,Mumbai,LOC
+The agreement was made between John Smith and OpenAI on 12th Jan 2022.,John Smith,PERSON
+The agreement was made between John Smith and OpenAI on 12th Jan 2022.,12th Jan 2022,DATE
+The agreement was made between John Smith and OpenAI on 12th Jan 2022.,OpenAI,ORG
+"The agreement was made between John Smith and Tata Group on March 5, 2023.",John Smith,PERSON
+"The agreement was made between John Smith and Tata Group on March 5, 2023.","March 5, 2023",DATE
+"The agreement was made between John Smith and Tata Group on March 5, 2023.",Tata Group,ORG
+John Smith signed the contract on 31st December 2024 under Article 21.,John Smith,PERSON
+John Smith signed the contract on 31st December 2024 under Article 21.,31st December 2024,DATE
+John Smith signed the contract on 31st December 2024 under Article 21.,Article 21,PROVISION
+Tata Group announced a policy change on 2022/01/12 in accordance with Data Protection Act.,12-01-2022,DATE
+Tata Group announced a policy change on 2022/01/12 in accordance with Data Protection Act.,Data Protection Act,PROVISION
+Tata Group announced a policy change on 2022/01/12 in accordance with Data Protection Act.,Tata Group,ORG
+John Smith signed the contract on 12th Jan 2022 under Criminal Procedure Code.,John Smith,PERSON
+John Smith signed the contract on 12th Jan 2022 under Criminal Procedure Code.,12th Jan 2022,DATE
+John Smith signed the contract on 12th Jan 2022 under Criminal Procedure Code.,Criminal Procedure Code,PROVISION
+"According to Data Protection Act, the meeting in Delhi was justified.",Data Protection Act,PROVISION
+"According to Data Protection Act, the meeting in Delhi was justified.",Delhi,LOC
+Anita Kapoor signed the contract on 31st December 2024 under Article 21.,Anita Kapoor,PERSON
+Anita Kapoor signed the contract on 31st December 2024 under Article 21.,31st December 2024,DATE
+Anita Kapoor signed the contract on 31st December 2024 under Article 21.,Article 21,PROVISION
+The agreement was made between Anita Kapoor and United Nations on 2022/01/12.,Anita Kapoor,PERSON
+The agreement was made between Anita Kapoor and United Nations on 2022/01/12.,12-01-2022,DATE
+The agreement was made between Anita Kapoor and United Nations on 2022/01/12.,United Nations,ORG
+The agreement was made between Emma Watson and Google LLC on 12th Jan 2022.,Emma Watson,PERSON
+The agreement was made between Emma Watson and Google LLC on 12th Jan 2022.,12th Jan 2022,DATE
+The agreement was made between Emma Watson and Google LLC on 12th Jan 2022.,Google LLC,ORG
+The agreement was made between Anita Kapoor and United Nations on 2022/01/12.,Anita Kapoor,PERSON
+The agreement was made between Anita Kapoor and United Nations on 2022/01/12.,12-01-2022,DATE
+The agreement was made between Anita Kapoor and United Nations on 2022/01/12.,United Nations,ORG
+Ravi Kumar from Bangalore challenged Data Protection Act on 12.01.2022.,Ravi Kumar,PERSON
+Ravi Kumar from Bangalore challenged Data Protection Act on 12.01.2022.,12.01.2022,DATE
+Ravi Kumar from Bangalore challenged Data Protection Act on 12.01.2022.,Data Protection Act,PROVISION
+Ravi Kumar from Bangalore challenged Data Protection Act on 12.01.2022.,Bangalore,LOC
+Tata Group announced a policy change on 31st December 2024 in accordance with Section 54.,31st December 2024,DATE
+Tata Group announced a policy change on 31st December 2024 in accordance with Section 54.,Section 54,PROVISION
+Tata Group announced a policy change on 31st December 2024 in accordance with Section 54.,Tata Group,ORG
+Aarav Mehta from New York challenged Data Protection Act on 12th Jan 2022.,Aarav Mehta,PERSON
+Aarav Mehta from New York challenged Data Protection Act on 12th Jan 2022.,12th Jan 2022,DATE
+Aarav Mehta from New York challenged Data Protection Act on 12th Jan 2022.,Data Protection Act,PROVISION
+Aarav Mehta from New York challenged Data Protection Act on 12th Jan 2022.,New York,LOC
+OpenAI announced a policy change on 31st December 2024 in accordance with Article 21.,31st December 2024,DATE
+OpenAI announced a policy change on 31st December 2024 in accordance with Article 21.,Article 21,PROVISION
+OpenAI announced a policy change on 31st December 2024 in accordance with Article 21.,OpenAI,ORG
+Google LLC announced a policy change on 12th Jan 2022 in accordance with Article 21.,12th Jan 2022,DATE
+Google LLC announced a policy change on 12th Jan 2022 in accordance with Article 21.,Article 21,PROVISION
+Google LLC announced a policy change on 12th Jan 2022 in accordance with Article 21.,Google LLC,ORG
+"According to Section 377, the meeting in Delhi was justified.",Section 377,PROVISION
+"According to Section 377, the meeting in Delhi was justified.",Delhi,LOC
+Anita Kapoor from Mumbai challenged Criminal Procedure Code on 2022/01/12.,Anita Kapoor,PERSON
+Anita Kapoor from Mumbai challenged Criminal Procedure Code on 2022/01/12.,12-01-2022,DATE
+Anita Kapoor from Mumbai challenged Criminal Procedure Code on 2022/01/12.,Criminal Procedure Code,PROVISION
+Anita Kapoor from Mumbai challenged Criminal Procedure Code on 2022/01/12.,Mumbai,LOC
+John Smith signed the contract on 2022/01/12 under Criminal Procedure Code.,John Smith,PERSON
+John Smith signed the contract on 2022/01/12 under Criminal Procedure Code.,12-01-2022,DATE
+John Smith signed the contract on 2022/01/12 under Criminal Procedure Code.,Criminal Procedure Code,PROVISION
+The agreement was made between John Smith and Infosys on 31st December 2024.,John Smith,PERSON
+The agreement was made between John Smith and Infosys on 31st December 2024.,31st December 2024,DATE
+The agreement was made between John Smith and Infosys on 31st December 2024.,Infosys,ORG
+Anita Kapoor signed the contract on 12th Jan 2022 under Section 377.,Anita Kapoor,PERSON
+Anita Kapoor signed the contract on 12th Jan 2022 under Section 377.,12th Jan 2022,DATE
+Anita Kapoor signed the contract on 12th Jan 2022 under Section 377.,Section 377,PROVISION
+Infosys filed a case under Section 377 in London.,Section 377,PROVISION
+Infosys filed a case under Section 377 in London.,Infosys,ORG
+Infosys filed a case under Section 377 in London.,London,LOC
+Ravi Kumar from Delhi challenged Criminal Procedure Code on 12th Jan 2022.,Ravi Kumar,PERSON
+Ravi Kumar from Delhi challenged Criminal Procedure Code on 12th Jan 2022.,12th Jan 2022,DATE
+Ravi Kumar from Delhi challenged Criminal Procedure Code on 12th Jan 2022.,Criminal Procedure Code,PROVISION
+Ravi Kumar from Delhi challenged Criminal Procedure Code on 12th Jan 2022.,Delhi,LOC
+"According to Section 54, the meeting in London was justified.",Section 54,PROVISION
+"According to Section 54, the meeting in London was justified.",London,LOC
+Ravi Kumar from London challenged Data Protection Act on 12.01.2022.,Ravi Kumar,PERSON
+Ravi Kumar from London challenged Data Protection Act on 12.01.2022.,12.01.2022,DATE
+Ravi Kumar from London challenged Data Protection Act on 12.01.2022.,Data Protection Act,PROVISION
+Ravi Kumar from London challenged Data Protection Act on 12.01.2022.,London,LOC
+"According to Section 377, the meeting in Mumbai was justified.",Section 377,PROVISION
+"According to Section 377, the meeting in Mumbai was justified.",Mumbai,LOC
+Google LLC announced a policy change on 31st December 2024 in accordance with Criminal Procedure Code.,31st December 2024,DATE
+Google LLC announced a policy change on 31st December 2024 in accordance with Criminal Procedure Code.,Criminal Procedure Code,PROVISION
+Google LLC announced a policy change on 31st December 2024 in accordance with Criminal Procedure Code.,Google LLC,ORG
+"Aarav Mehta from London challenged Section 54 on March 5, 2023.",Aarav Mehta,PERSON
+"Aarav Mehta from London challenged Section 54 on March 5, 2023.","March 5, 2023",DATE
+"Aarav Mehta from London challenged Section 54 on March 5, 2023.",Section 54,PROVISION
+"Aarav Mehta from London challenged Section 54 on March 5, 2023.",London,LOC
+Emma Watson from Mumbai challenged Section 54 on 2022/01/12.,Emma Watson,PERSON
+Emma Watson from Mumbai challenged Section 54 on 2022/01/12.,12-01-2022,DATE
+Emma Watson from Mumbai challenged Section 54 on 2022/01/12.,Section 54,PROVISION
+Emma Watson from Mumbai challenged Section 54 on 2022/01/12.,Mumbai,LOC
+United Nations announced a policy change on 12th Jan 2022 in accordance with Article 21.,12th Jan 2022,DATE
+United Nations announced a policy change on 12th Jan 2022 in accordance with Article 21.,Article 21,PROVISION
+United Nations announced a policy change on 12th Jan 2022 in accordance with Article 21.,United Nations,ORG
+The agreement was made between Anita Kapoor and OpenAI on 12.01.2022.,Anita Kapoor,PERSON
+The agreement was made between Anita Kapoor and OpenAI on 12.01.2022.,12.01.2022,DATE
+The agreement was made between Anita Kapoor and OpenAI on 12.01.2022.,OpenAI,ORG
+"The agreement was made between Ravi Kumar and United Nations on March 5, 2023.",Ravi Kumar,PERSON
+"The agreement was made between Ravi Kumar and United Nations on March 5, 2023.","March 5, 2023",DATE
+"The agreement was made between Ravi Kumar and United Nations on March 5, 2023.",United Nations,ORG
+The agreement was made between Anita Kapoor and United Nations on 31st December 2024.,Anita Kapoor,PERSON
+The agreement was made between Anita Kapoor and United Nations on 31st December 2024.,31st December 2024,DATE
+The agreement was made between Anita Kapoor and United Nations on 31st December 2024.,United Nations,ORG
+United Nations announced a policy change on 12th Jan 2022 in accordance with Article 21.,12th Jan 2022,DATE
+United Nations announced a policy change on 12th Jan 2022 in accordance with Article 21.,Article 21,PROVISION
+United Nations announced a policy change on 12th Jan 2022 in accordance with Article 21.,United Nations,ORG
+Ravi Kumar from Delhi challenged Section 377 on 12th Jan 2022.,Ravi Kumar,PERSON
+Ravi Kumar from Delhi challenged Section 377 on 12th Jan 2022.,12th Jan 2022,DATE
+Ravi Kumar from Delhi challenged Section 377 on 12th Jan 2022.,Section 377,PROVISION
+Ravi Kumar from Delhi challenged Section 377 on 12th Jan 2022.,Delhi,LOC
+"Aarav Mehta from Bangalore challenged Section 377 on March 5, 2023.",Aarav Mehta,PERSON
+"Aarav Mehta from Bangalore challenged Section 377 on March 5, 2023.","March 5, 2023",DATE
+"Aarav Mehta from Bangalore challenged Section 377 on March 5, 2023.",Section 377,PROVISION
+"Aarav Mehta from Bangalore challenged Section 377 on March 5, 2023.",Bangalore,LOC
+Google LLC filed a case under Section 377 in Bangalore.,Section 377,PROVISION
+Google LLC filed a case under Section 377 in Bangalore.,Google LLC,ORG
+Google LLC filed a case under Section 377 in Bangalore.,Bangalore,LOC
+Emma Watson signed the contract on 2022/01/12 under Article 21.,Emma Watson,PERSON
+Emma Watson signed the contract on 2022/01/12 under Article 21.,12-01-2022,DATE
+Emma Watson signed the contract on 2022/01/12 under Article 21.,Article 21,PROVISION
+Emma Watson from Delhi challenged Data Protection Act on 12.01.2022.,Emma Watson,PERSON
+Emma Watson from Delhi challenged Data Protection Act on 12.01.2022.,12.01.2022,DATE
+Emma Watson from Delhi challenged Data Protection Act on 12.01.2022.,Data Protection Act,PROVISION
+Emma Watson from Delhi challenged Data Protection Act on 12.01.2022.,Delhi,LOC
+The agreement was made between Aarav Mehta and Google LLC on 12.01.2022.,Aarav Mehta,PERSON
+The agreement was made between Aarav Mehta and Google LLC on 12.01.2022.,12.01.2022,DATE
+The agreement was made between Aarav Mehta and Google LLC on 12.01.2022.,Google LLC,ORG
+"John Smith signed the contract on March 5, 2023 under Section 377.",John Smith,PERSON
+"John Smith signed the contract on March 5, 2023 under Section 377.","March 5, 2023",DATE
+"John Smith signed the contract on March 5, 2023 under Section 377.",Section 377,PROVISION
+OpenAI announced a policy change on 12.01.2022 in accordance with Criminal Procedure Code.,12.01.2022,DATE
+OpenAI announced a policy change on 12.01.2022 in accordance with Criminal Procedure Code.,Criminal Procedure Code,PROVISION
+OpenAI announced a policy change on 12.01.2022 in accordance with Criminal Procedure Code.,OpenAI,ORG
+"The agreement was made between Anita Kapoor and Tata Group on March 5, 2023.",Anita Kapoor,PERSON
+"The agreement was made between Anita Kapoor and Tata Group on March 5, 2023.","March 5, 2023",DATE
+"The agreement was made between Anita Kapoor and Tata Group on March 5, 2023.",Tata Group,ORG
+Ravi Kumar from Delhi challenged Section 54 on 12th Jan 2022.,Ravi Kumar,PERSON
+Ravi Kumar from Delhi challenged Section 54 on 12th Jan 2022.,12th Jan 2022,DATE
+Ravi Kumar from Delhi challenged Section 54 on 12th Jan 2022.,Section 54,PROVISION
+Ravi Kumar from Delhi challenged Section 54 on 12th Jan 2022.,Delhi,LOC
+United Nations filed a case under Article 21 in Bangalore.,Article 21,PROVISION
+United Nations filed a case under Article 21 in Bangalore.,United Nations,ORG
+United Nations filed a case under Article 21 in Bangalore.,Bangalore,LOC
+John Smith from New York challenged Data Protection Act on 2022/01/12.,John Smith,PERSON
+John Smith from New York challenged Data Protection Act on 2022/01/12.,12-01-2022,DATE
+John Smith from New York challenged Data Protection Act on 2022/01/12.,Data Protection Act,PROVISION
+John Smith from New York challenged Data Protection Act on 2022/01/12.,New York,LOC
+"According to Section 377, the meeting in Delhi was justified.",Section 377,PROVISION
+"According to Section 377, the meeting in Delhi was justified.",Delhi,LOC
+Ravi Kumar from Bangalore challenged Criminal Procedure Code on 12.01.2022.,Ravi Kumar,PERSON
+Ravi Kumar from Bangalore challenged Criminal Procedure Code on 12.01.2022.,12.01.2022,DATE
+Ravi Kumar from Bangalore challenged Criminal Procedure Code on 12.01.2022.,Criminal Procedure Code,PROVISION
+Ravi Kumar from Bangalore challenged Criminal Procedure Code on 12.01.2022.,Bangalore,LOC
+Aarav Mehta signed the contract on 12.01.2022 under Data Protection Act.,Aarav Mehta,PERSON
+Aarav Mehta signed the contract on 12.01.2022 under Data Protection Act.,12.01.2022,DATE
+Aarav Mehta signed the contract on 12.01.2022 under Data Protection Act.,Data Protection Act,PROVISION
+"According to Section 54, the meeting in New York was justified.",Section 54,PROVISION
+"According to Section 54, the meeting in New York was justified.",New York,LOC
+Anita Kapoor signed the contract on 2022/01/12 under Section 377.,Anita Kapoor,PERSON
+Anita Kapoor signed the contract on 2022/01/12 under Section 377.,12-01-2022,DATE
+Anita Kapoor signed the contract on 2022/01/12 under Section 377.,Section 377,PROVISION
+United Nations filed a case under Criminal Procedure Code in Delhi.,Criminal Procedure Code,PROVISION
+United Nations filed a case under Criminal Procedure Code in Delhi.,United Nations,ORG
+United Nations filed a case under Criminal Procedure Code in Delhi.,Delhi,LOC
+"According to Data Protection Act, the meeting in Bangalore was justified.",Data Protection Act,PROVISION
+"According to Data Protection Act, the meeting in Bangalore was justified.",Bangalore,LOC
+United Nations filed a case under Criminal Procedure Code in Mumbai.,Criminal Procedure Code,PROVISION
+United Nations filed a case under Criminal Procedure Code in Mumbai.,United Nations,ORG
+United Nations filed a case under Criminal Procedure Code in Mumbai.,Mumbai,LOC
+Emma Watson signed the contract on 31st December 2024 under Criminal Procedure Code.,Emma Watson,PERSON
+Emma Watson signed the contract on 31st December 2024 under Criminal Procedure Code.,31st December 2024,DATE
+Emma Watson signed the contract on 31st December 2024 under Criminal Procedure Code.,Criminal Procedure Code,PROVISION
+Google LLC filed a case under Data Protection Act in Delhi.,Data Protection Act,PROVISION
+Google LLC filed a case under Data Protection Act in Delhi.,Google LLC,ORG
+Google LLC filed a case under Data Protection Act in Delhi.,Delhi,LOC
+"According to Article 21, the meeting in New York was justified.",Article 21,PROVISION
+"According to Article 21, the meeting in New York was justified.",New York,LOC
+Ravi Kumar from London challenged Section 54 on 2022/01/12.,Ravi Kumar,PERSON
+Ravi Kumar from London challenged Section 54 on 2022/01/12.,12-01-2022,DATE
+Ravi Kumar from London challenged Section 54 on 2022/01/12.,Section 54,PROVISION
+Ravi Kumar from London challenged Section 54 on 2022/01/12.,London,LOC
+Anita Kapoor from Delhi challenged Section 54 on 12th Jan 2022.,Anita Kapoor,PERSON
+Anita Kapoor from Delhi challenged Section 54 on 12th Jan 2022.,12th Jan 2022,DATE
+Anita Kapoor from Delhi challenged Section 54 on 12th Jan 2022.,Section 54,PROVISION
+Anita Kapoor from Delhi challenged Section 54 on 12th Jan 2022.,Delhi,LOC
+Anita Kapoor signed the contract on 2022/01/12 under Article 21.,Anita Kapoor,PERSON
+Anita Kapoor signed the contract on 2022/01/12 under Article 21.,12-01-2022,DATE
+Anita Kapoor signed the contract on 2022/01/12 under Article 21.,Article 21,PROVISION
+Anita Kapoor from New York challenged Section 54 on 31st December 2024.,Anita Kapoor,PERSON
+Anita Kapoor from New York challenged Section 54 on 31st December 2024.,31st December 2024,DATE
+Anita Kapoor from New York challenged Section 54 on 31st December 2024.,Section 54,PROVISION
+Anita Kapoor from New York challenged Section 54 on 31st December 2024.,New York,LOC
+OpenAI announced a policy change on 12.01.2022 in accordance with Criminal Procedure Code.,12.01.2022,DATE
+OpenAI announced a policy change on 12.01.2022 in accordance with Criminal Procedure Code.,Criminal Procedure Code,PROVISION
+OpenAI announced a policy change on 12.01.2022 in accordance with Criminal Procedure Code.,OpenAI,ORG
+"According to Data Protection Act, the meeting in New York was justified.",Data Protection Act,PROVISION
+"According to Data Protection Act, the meeting in New York was justified.",New York,LOC
+The agreement was made between Ravi Kumar and Tata Group on 12.01.2022.,Ravi Kumar,PERSON
+The agreement was made between Ravi Kumar and Tata Group on 12.01.2022.,12.01.2022,DATE
+The agreement was made between Ravi Kumar and Tata Group on 12.01.2022.,Tata Group,ORG
+United Nations filed a case under Section 377 in Mumbai.,Section 377,PROVISION
+United Nations filed a case under Section 377 in Mumbai.,United Nations,ORG
+United Nations filed a case under Section 377 in Mumbai.,Mumbai,LOC
+"Emma Watson signed the contract on March 5, 2023 under Criminal Procedure Code.",Emma Watson,PERSON
+"Emma Watson signed the contract on March 5, 2023 under Criminal Procedure Code.","March 5, 2023",DATE
+"Emma Watson signed the contract on March 5, 2023 under Criminal Procedure Code.",Criminal Procedure Code,PROVISION
+OpenAI filed a case under Section 377 in Delhi.,Section 377,PROVISION
+OpenAI filed a case under Section 377 in Delhi.,OpenAI,ORG
+OpenAI filed a case under Section 377 in Delhi.,Delhi,LOC
+OpenAI announced a policy change on 12.01.2022 in accordance with Article 21.,12.01.2022,DATE
+OpenAI announced a policy change on 12.01.2022 in accordance with Article 21.,Article 21,PROVISION
+OpenAI announced a policy change on 12.01.2022 in accordance with Article 21.,OpenAI,ORG
+Google LLC announced a policy change on 2022/01/12 in accordance with Section 54.,12-01-2022,DATE
+Google LLC announced a policy change on 2022/01/12 in accordance with Section 54.,Section 54,PROVISION
+Google LLC announced a policy change on 2022/01/12 in accordance with Section 54.,Google LLC,ORG
+Infosys announced a policy change on 12th Jan 2022 in accordance with Article 21.,12th Jan 2022,DATE
+Infosys announced a policy change on 12th Jan 2022 in accordance with Article 21.,Article 21,PROVISION
+Infosys announced a policy change on 12th Jan 2022 in accordance with Article 21.,Infosys,ORG
+The agreement was made between John Smith and United Nations on 12.01.2022.,John Smith,PERSON
+The agreement was made between John Smith and United Nations on 12.01.2022.,12.01.2022,DATE
+The agreement was made between John Smith and United Nations on 12.01.2022.,United Nations,ORG
+Ravi Kumar from Bangalore challenged Section 54 on 12th Jan 2022.,Ravi Kumar,PERSON
+Ravi Kumar from Bangalore challenged Section 54 on 12th Jan 2022.,12th Jan 2022,DATE
+Ravi Kumar from Bangalore challenged Section 54 on 12th Jan 2022.,Section 54,PROVISION
+Ravi Kumar from Bangalore challenged Section 54 on 12th Jan 2022.,Bangalore,LOC
+"The agreement was made between Aarav Mehta and Tata Group on March 5, 2023.",Aarav Mehta,PERSON
+"The agreement was made between Aarav Mehta and Tata Group on March 5, 2023.","March 5, 2023",DATE
+"The agreement was made between Aarav Mehta and Tata Group on March 5, 2023.",Tata Group,ORG
+United Nations filed a case under Data Protection Act in Mumbai.,Data Protection Act,PROVISION
+United Nations filed a case under Data Protection Act in Mumbai.,United Nations,ORG
+United Nations filed a case under Data Protection Act in Mumbai.,Mumbai,LOC
+"According to Section 54, the meeting in Mumbai was justified.",Section 54,PROVISION
+"According to Section 54, the meeting in Mumbai was justified.",Mumbai,LOC
+The agreement was made between Emma Watson and Infosys on 31st December 2024.,Emma Watson,PERSON
+The agreement was made between Emma Watson and Infosys on 31st December 2024.,31st December 2024,DATE
+The agreement was made between Emma Watson and Infosys on 31st December 2024.,Infosys,ORG
+Anita Kapoor signed the contract on 31st December 2024 under Criminal Procedure Code.,Anita Kapoor,PERSON
+Anita Kapoor signed the contract on 31st December 2024 under Criminal Procedure Code.,31st December 2024,DATE
+Anita Kapoor signed the contract on 31st December 2024 under Criminal Procedure Code.,Criminal Procedure Code,PROVISION
+Aarav Mehta from New York challenged Section 377 on 31st December 2024.,Aarav Mehta,PERSON
+Aarav Mehta from New York challenged Section 377 on 31st December 2024.,31st December 2024,DATE
+Aarav Mehta from New York challenged Section 377 on 31st December 2024.,Section 377,PROVISION
+Aarav Mehta from New York challenged Section 377 on 31st December 2024.,New York,LOC
+Infosys filed a case under Section 377 in Bangalore.,Section 377,PROVISION
+Infosys filed a case under Section 377 in Bangalore.,Infosys,ORG
+Infosys filed a case under Section 377 in Bangalore.,Bangalore,LOC
+Aarav Mehta signed the contract on 12th Jan 2022 under Section 54.,Aarav Mehta,PERSON
+Aarav Mehta signed the contract on 12th Jan 2022 under Section 54.,12th Jan 2022,DATE
+Aarav Mehta signed the contract on 12th Jan 2022 under Section 54.,Section 54,PROVISION
+Aarav Mehta signed the contract on 12.01.2022 under Criminal Procedure Code.,Aarav Mehta,PERSON
+Aarav Mehta signed the contract on 12.01.2022 under Criminal Procedure Code.,12.01.2022,DATE
+Aarav Mehta signed the contract on 12.01.2022 under Criminal Procedure Code.,Criminal Procedure Code,PROVISION
+Google LLC filed a case under Criminal Procedure Code in Bangalore.,Criminal Procedure Code,PROVISION
+Google LLC filed a case under Criminal Procedure Code in Bangalore.,Google LLC,ORG
+Google LLC filed a case under Criminal Procedure Code in Bangalore.,Bangalore,LOC
+"According to Section 377, the meeting in Bangalore was justified.",Section 377,PROVISION
+"According to Section 377, the meeting in Bangalore was justified.",Bangalore,LOC
+Tata Group announced a policy change on 12th Jan 2022 in accordance with Section 377.,12th Jan 2022,DATE
+Tata Group announced a policy change on 12th Jan 2022 in accordance with Section 377.,Section 377,PROVISION
+Tata Group announced a policy change on 12th Jan 2022 in accordance with Section 377.,Tata Group,ORG
+Infosys filed a case under Section 377 in New York.,Section 377,PROVISION
+Infosys filed a case under Section 377 in New York.,Infosys,ORG
+Infosys filed a case under Section 377 in New York.,New York,LOC
+Ravi Kumar from New York challenged Section 377 on 12.01.2022.,Ravi Kumar,PERSON
+Ravi Kumar from New York challenged Section 377 on 12.01.2022.,12.01.2022,DATE
+Ravi Kumar from New York challenged Section 377 on 12.01.2022.,Section 377,PROVISION
+Ravi Kumar from New York challenged Section 377 on 12.01.2022.,New York,LOC
+Infosys filed a case under Criminal Procedure Code in London.,Criminal Procedure Code,PROVISION
+Infosys filed a case under Criminal Procedure Code in London.,Infosys,ORG
+Infosys filed a case under Criminal Procedure Code in London.,London,LOC
+"According to Data Protection Act, the meeting in New York was justified.",Data Protection Act,PROVISION
+"According to Data Protection Act, the meeting in New York was justified.",New York,LOC
+Infosys filed a case under Article 21 in London.,Article 21,PROVISION
+Infosys filed a case under Article 21 in London.,Infosys,ORG
+Infosys filed a case under Article 21 in London.,London,LOC
+Emma Watson from Delhi challenged Section 377 on 12th Jan 2022.,Emma Watson,PERSON
+Emma Watson from Delhi challenged Section 377 on 12th Jan 2022.,12th Jan 2022,DATE
+Emma Watson from Delhi challenged Section 377 on 12th Jan 2022.,Section 377,PROVISION
+Emma Watson from Delhi challenged Section 377 on 12th Jan 2022.,Delhi,LOC
+United Nations filed a case under Data Protection Act in Mumbai.,Data Protection Act,PROVISION
+United Nations filed a case under Data Protection Act in Mumbai.,United Nations,ORG
+United Nations filed a case under Data Protection Act in Mumbai.,Mumbai,LOC
+The agreement was made between Ravi Kumar and OpenAI on 12th Jan 2022.,Ravi Kumar,PERSON
+The agreement was made between Ravi Kumar and OpenAI on 12th Jan 2022.,12th Jan 2022,DATE
+The agreement was made between Ravi Kumar and OpenAI on 12th Jan 2022.,OpenAI,ORG
+The agreement was made between Emma Watson and Infosys on 12th Jan 2022.,Emma Watson,PERSON
+The agreement was made between Emma Watson and Infosys on 12th Jan 2022.,12th Jan 2022,DATE
+The agreement was made between Emma Watson and Infosys on 12th Jan 2022.,Infosys,ORG
+United Nations filed a case under Section 54 in Mumbai.,Section 54,PROVISION
+United Nations filed a case under Section 54 in Mumbai.,United Nations,ORG
+United Nations filed a case under Section 54 in Mumbai.,Mumbai,LOC
+Aarav Mehta from New York challenged Data Protection Act on 12.01.2022.,Aarav Mehta,PERSON
+Aarav Mehta from New York challenged Data Protection Act on 12.01.2022.,12.01.2022,DATE
+Aarav Mehta from New York challenged Data Protection Act on 12.01.2022.,Data Protection Act,PROVISION
+Aarav Mehta from New York challenged Data Protection Act on 12.01.2022.,New York,LOC
+United Nations announced a policy change on 31st December 2024 in accordance with Article 21.,31st December 2024,DATE
+United Nations announced a policy change on 31st December 2024 in accordance with Article 21.,Article 21,PROVISION
+United Nations announced a policy change on 31st December 2024 in accordance with Article 21.,United Nations,ORG
+Emma Watson from New York challenged Criminal Procedure Code on 12th Jan 2022.,Emma Watson,PERSON
+Emma Watson from New York challenged Criminal Procedure Code on 12th Jan 2022.,12th Jan 2022,DATE
+Emma Watson from New York challenged Criminal Procedure Code on 12th Jan 2022.,Criminal Procedure Code,PROVISION
+Emma Watson from New York challenged Criminal Procedure Code on 12th Jan 2022.,New York,LOC
+The agreement was made between Anita Kapoor and Google LLC on 12th Jan 2022.,Anita Kapoor,PERSON
+The agreement was made between Anita Kapoor and Google LLC on 12th Jan 2022.,12th Jan 2022,DATE
+The agreement was made between Anita Kapoor and Google LLC on 12th Jan 2022.,Google LLC,ORG
+Aarav Mehta from London challenged Article 21 on 31st December 2024.,Aarav Mehta,PERSON
+Aarav Mehta from London challenged Article 21 on 31st December 2024.,31st December 2024,DATE
+Aarav Mehta from London challenged Article 21 on 31st December 2024.,Article 21,PROVISION
+Aarav Mehta from London challenged Article 21 on 31st December 2024.,London,LOC
+"According to Criminal Procedure Code, the meeting in New York was justified.",Criminal Procedure Code,PROVISION
+"According to Criminal Procedure Code, the meeting in New York was justified.",New York,LOC
+"Ravi Kumar from London challenged Criminal Procedure Code on March 5, 2023.",Ravi Kumar,PERSON
+"Ravi Kumar from London challenged Criminal Procedure Code on March 5, 2023.","March 5, 2023",DATE
+"Ravi Kumar from London challenged Criminal Procedure Code on March 5, 2023.",Criminal Procedure Code,PROVISION
+"Ravi Kumar from London challenged Criminal Procedure Code on March 5, 2023.",London,LOC
+"Infosys announced a policy change on March 5, 2023 in accordance with Section 377.","March 5, 2023",DATE
+"Infosys announced a policy change on March 5, 2023 in accordance with Section 377.",Section 377,PROVISION
+"Infosys announced a policy change on March 5, 2023 in accordance with Section 377.",Infosys,ORG
+Ravi Kumar signed the contract on 31st December 2024 under Section 377.,Ravi Kumar,PERSON
+Ravi Kumar signed the contract on 31st December 2024 under Section 377.,31st December 2024,DATE
+Ravi Kumar signed the contract on 31st December 2024 under Section 377.,Section 377,PROVISION
+"According to Article 21, the meeting in New York was justified.",Article 21,PROVISION
+"According to Article 21, the meeting in New York was justified.",New York,LOC
+Infosys filed a case under Data Protection Act in Bangalore.,Data Protection Act,PROVISION
+Infosys filed a case under Data Protection Act in Bangalore.,Infosys,ORG
+Infosys filed a case under Data Protection Act in Bangalore.,Bangalore,LOC
+"According to Data Protection Act, the meeting in Bangalore was justified.",Data Protection Act,PROVISION
+"According to Data Protection Act, the meeting in Bangalore was justified.",Bangalore,LOC
+Anita Kapoor signed the contract on 12th Jan 2022 under Article 21.,Anita Kapoor,PERSON
+Anita Kapoor signed the contract on 12th Jan 2022 under Article 21.,12th Jan 2022,DATE
+Anita Kapoor signed the contract on 12th Jan 2022 under Article 21.,Article 21,PROVISION
+Anita Kapoor from Mumbai challenged Criminal Procedure Code on 12.01.2022.,Anita Kapoor,PERSON
+Anita Kapoor from Mumbai challenged Criminal Procedure Code on 12.01.2022.,12.01.2022,DATE
+Anita Kapoor from Mumbai challenged Criminal Procedure Code on 12.01.2022.,Criminal Procedure Code,PROVISION
+Anita Kapoor from Mumbai challenged Criminal Procedure Code on 12.01.2022.,Mumbai,LOC
+"According to Data Protection Act, the meeting in London was justified.",Data Protection Act,PROVISION
+"According to Data Protection Act, the meeting in London was justified.",London,LOC
+Tata Group filed a case under Criminal Procedure Code in London.,Criminal Procedure Code,PROVISION
+Tata Group filed a case under Criminal Procedure Code in London.,Tata Group,ORG
+Tata Group filed a case under Criminal Procedure Code in London.,London,LOC
+"According to Data Protection Act, the meeting in Mumbai was justified.",Data Protection Act,PROVISION
+"According to Data Protection Act, the meeting in Mumbai was justified.",Mumbai,LOC
+Infosys filed a case under Article 21 in New York.,Article 21,PROVISION
+Infosys filed a case under Article 21 in New York.,Infosys,ORG
+Infosys filed a case under Article 21 in New York.,New York,LOC
+Ravi Kumar from New York challenged Section 54 on 2022/01/12.,Ravi Kumar,PERSON
+Ravi Kumar from New York challenged Section 54 on 2022/01/12.,12-01-2022,DATE
+Ravi Kumar from New York challenged Section 54 on 2022/01/12.,Section 54,PROVISION
+Ravi Kumar from New York challenged Section 54 on 2022/01/12.,New York,LOC
+Infosys announced a policy change on 31st December 2024 in accordance with Criminal Procedure Code.,31st December 2024,DATE
+Infosys announced a policy change on 31st December 2024 in accordance with Criminal Procedure Code.,Criminal Procedure Code,PROVISION
+Infosys announced a policy change on 31st December 2024 in accordance with Criminal Procedure Code.,Infosys,ORG
+The agreement was made between Ravi Kumar and OpenAI on 12.01.2022.,Ravi Kumar,PERSON
+The agreement was made between Ravi Kumar and OpenAI on 12.01.2022.,12.01.2022,DATE
+The agreement was made between Ravi Kumar and OpenAI on 12.01.2022.,OpenAI,ORG
+Anita Kapoor from Delhi challenged Article 21 on 12.01.2022.,Anita Kapoor,PERSON
+Anita Kapoor from Delhi challenged Article 21 on 12.01.2022.,12.01.2022,DATE
+Anita Kapoor from Delhi challenged Article 21 on 12.01.2022.,Article 21,PROVISION
+Anita Kapoor from Delhi challenged Article 21 on 12.01.2022.,Delhi,LOC
+Infosys announced a policy change on 12.01.2022 in accordance with Criminal Procedure Code.,12.01.2022,DATE
+Infosys announced a policy change on 12.01.2022 in accordance with Criminal Procedure Code.,Criminal Procedure Code,PROVISION
+Infosys announced a policy change on 12.01.2022 in accordance with Criminal Procedure Code.,Infosys,ORG
+The agreement was made between John Smith and United Nations on 2022/01/12.,John Smith,PERSON
+The agreement was made between John Smith and United Nations on 2022/01/12.,12-01-2022,DATE
+The agreement was made between John Smith and United Nations on 2022/01/12.,United Nations,ORG
+John Smith signed the contract on 2022/01/12 under Section 54.,John Smith,PERSON
+John Smith signed the contract on 2022/01/12 under Section 54.,12-01-2022,DATE
+John Smith signed the contract on 2022/01/12 under Section 54.,Section 54,PROVISION
+Google LLC filed a case under Section 54 in Mumbai.,Section 54,PROVISION
+Google LLC filed a case under Section 54 in Mumbai.,Google LLC,ORG
+Google LLC filed a case under Section 54 in Mumbai.,Mumbai,LOC
+"United Nations announced a policy change on March 5, 2023 in accordance with Data Protection Act.","March 5, 2023",DATE
+"United Nations announced a policy change on March 5, 2023 in accordance with Data Protection Act.",Data Protection Act,PROVISION
+"United Nations announced a policy change on March 5, 2023 in accordance with Data Protection Act.",United Nations,ORG
+"OpenAI announced a policy change on March 5, 2023 in accordance with Criminal Procedure Code.","March 5, 2023",DATE
+"OpenAI announced a policy change on March 5, 2023 in accordance with Criminal Procedure Code.",Criminal Procedure Code,PROVISION
+"OpenAI announced a policy change on March 5, 2023 in accordance with Criminal Procedure Code.",OpenAI,ORG
+"According to Section 377, the meeting in New York was justified.",Section 377,PROVISION
+"According to Section 377, the meeting in New York was justified.",New York,LOC
+OpenAI announced a policy change on 12th Jan 2022 in accordance with Data Protection Act.,12th Jan 2022,DATE
+OpenAI announced a policy change on 12th Jan 2022 in accordance with Data Protection Act.,Data Protection Act,PROVISION
+OpenAI announced a policy change on 12th Jan 2022 in accordance with Data Protection Act.,OpenAI,ORG
+Google LLC announced a policy change on 12.01.2022 in accordance with Section 54.,12.01.2022,DATE
+Google LLC announced a policy change on 12.01.2022 in accordance with Section 54.,Section 54,PROVISION
+Google LLC announced a policy change on 12.01.2022 in accordance with Section 54.,Google LLC,ORG
+The agreement was made between Aarav Mehta and Infosys on 12.01.2022.,Aarav Mehta,PERSON
+The agreement was made between Aarav Mehta and Infosys on 12.01.2022.,12.01.2022,DATE
+The agreement was made between Aarav Mehta and Infosys on 12.01.2022.,Infosys,ORG
+Aarav Mehta signed the contract on 12th Jan 2022 under Data Protection Act.,Aarav Mehta,PERSON
+Aarav Mehta signed the contract on 12th Jan 2022 under Data Protection Act.,12th Jan 2022,DATE
+Aarav Mehta signed the contract on 12th Jan 2022 under Data Protection Act.,Data Protection Act,PROVISION
+"Anita Kapoor from Bangalore challenged Criminal Procedure Code on March 5, 2023.",Anita Kapoor,PERSON
+"Anita Kapoor from Bangalore challenged Criminal Procedure Code on March 5, 2023.","March 5, 2023",DATE
+"Anita Kapoor from Bangalore challenged Criminal Procedure Code on March 5, 2023.",Criminal Procedure Code,PROVISION
+"Anita Kapoor from Bangalore challenged Criminal Procedure Code on March 5, 2023.",Bangalore,LOC
+"According to Criminal Procedure Code, the meeting in Bangalore was justified.",Criminal Procedure Code,PROVISION
+"According to Criminal Procedure Code, the meeting in Bangalore was justified.",Bangalore,LOC
+"According to Article 21, the meeting in New York was justified.",Article 21,PROVISION
+"According to Article 21, the meeting in New York was justified.",New York,LOC
+Emma Watson signed the contract on 2022/01/12 under Section 54.,Emma Watson,PERSON
+Emma Watson signed the contract on 2022/01/12 under Section 54.,12-01-2022,DATE
+Emma Watson signed the contract on 2022/01/12 under Section 54.,Section 54,PROVISION
+"According to Data Protection Act, the meeting in London was justified.",Data Protection Act,PROVISION
+"According to Data Protection Act, the meeting in London was justified.",London,LOC
+Infosys filed a case under Section 54 in London.,Section 54,PROVISION
+Infosys filed a case under Section 54 in London.,Infosys,ORG
+Infosys filed a case under Section 54 in London.,London,LOC
+Google LLC filed a case under Criminal Procedure Code in London.,Criminal Procedure Code,PROVISION
+Google LLC filed a case under Criminal Procedure Code in London.,Google LLC,ORG
+Google LLC filed a case under Criminal Procedure Code in London.,London,LOC
+Anita Kapoor from Mumbai challenged Data Protection Act on 12th Jan 2022.,Anita Kapoor,PERSON
+Anita Kapoor from Mumbai challenged Data Protection Act on 12th Jan 2022.,12th Jan 2022,DATE
+Anita Kapoor from Mumbai challenged Data Protection Act on 12th Jan 2022.,Data Protection Act,PROVISION
+Anita Kapoor from Mumbai challenged Data Protection Act on 12th Jan 2022.,Mumbai,LOC
+"The agreement was made between Aarav Mehta and Tata Group on March 5, 2023.",Aarav Mehta,PERSON
+"The agreement was made between Aarav Mehta and Tata Group on March 5, 2023.","March 5, 2023",DATE
+"The agreement was made between Aarav Mehta and Tata Group on March 5, 2023.",Tata Group,ORG
+John Smith signed the contract on 2022/01/12 under Article 21.,John Smith,PERSON
+John Smith signed the contract on 2022/01/12 under Article 21.,12-01-2022,DATE
+John Smith signed the contract on 2022/01/12 under Article 21.,Article 21,PROVISION
+"According to Article 21, the meeting in New York was justified.",Article 21,PROVISION
+"According to Article 21, the meeting in New York was justified.",New York,LOC
+Anita Kapoor from New York challenged Section 377 on 31st December 2024.,Anita Kapoor,PERSON
+Anita Kapoor from New York challenged Section 377 on 31st December 2024.,31st December 2024,DATE
+Anita Kapoor from New York challenged Section 377 on 31st December 2024.,Section 377,PROVISION
+Anita Kapoor from New York challenged Section 377 on 31st December 2024.,New York,LOC
+"Google LLC announced a policy change on March 5, 2023 in accordance with Criminal Procedure Code.","March 5, 2023",DATE
+"Google LLC announced a policy change on March 5, 2023 in accordance with Criminal Procedure Code.",Criminal Procedure Code,PROVISION
+"Google LLC announced a policy change on March 5, 2023 in accordance with Criminal Procedure Code.",Google LLC,ORG
+Emma Watson from London challenged Article 21 on 31st December 2024.,Emma Watson,PERSON
+Emma Watson from London challenged Article 21 on 31st December 2024.,31st December 2024,DATE
+Emma Watson from London challenged Article 21 on 31st December 2024.,Article 21,PROVISION
+Emma Watson from London challenged Article 21 on 31st December 2024.,London,LOC
+The agreement was made between Emma Watson and Google LLC on 12.01.2022.,Emma Watson,PERSON
+The agreement was made between Emma Watson and Google LLC on 12.01.2022.,12.01.2022,DATE
+The agreement was made between Emma Watson and Google LLC on 12.01.2022.,Google LLC,ORG
+"Emma Watson from Delhi challenged Section 377 on March 5, 2023.",Emma Watson,PERSON
+"Emma Watson from Delhi challenged Section 377 on March 5, 2023.","March 5, 2023",DATE
+"Emma Watson from Delhi challenged Section 377 on March 5, 2023.",Section 377,PROVISION
+"Emma Watson from Delhi challenged Section 377 on March 5, 2023.",Delhi,LOC
+Infosys filed a case under Criminal Procedure Code in Bangalore.,Criminal Procedure Code,PROVISION
+Infosys filed a case under Criminal Procedure Code in Bangalore.,Infosys,ORG
+Infosys filed a case under Criminal Procedure Code in Bangalore.,Bangalore,LOC
+Emma Watson signed the contract on 31st December 2024 under Section 54.,Emma Watson,PERSON
+Emma Watson signed the contract on 31st December 2024 under Section 54.,31st December 2024,DATE
+Emma Watson signed the contract on 31st December 2024 under Section 54.,Section 54,PROVISION
+John Smith signed the contract on 12.01.2022 under Section 54.,John Smith,PERSON
+John Smith signed the contract on 12.01.2022 under Section 54.,12.01.2022,DATE
+John Smith signed the contract on 12.01.2022 under Section 54.,Section 54,PROVISION
+Google LLC announced a policy change on 12.01.2022 in accordance with Criminal Procedure Code.,12.01.2022,DATE
+Google LLC announced a policy change on 12.01.2022 in accordance with Criminal Procedure Code.,Criminal Procedure Code,PROVISION
+Google LLC announced a policy change on 12.01.2022 in accordance with Criminal Procedure Code.,Google LLC,ORG
+United Nations filed a case under Article 21 in New York.,Article 21,PROVISION
+United Nations filed a case under Article 21 in New York.,United Nations,ORG
+United Nations filed a case under Article 21 in New York.,New York,LOC
+John Smith signed the contract on 31st December 2024 under Article 21.,John Smith,PERSON
+John Smith signed the contract on 31st December 2024 under Article 21.,31st December 2024,DATE
+John Smith signed the contract on 31st December 2024 under Article 21.,Article 21,PROVISION
+United Nations filed a case under Section 377 in Delhi.,Section 377,PROVISION
+United Nations filed a case under Section 377 in Delhi.,United Nations,ORG
+United Nations filed a case under Section 377 in Delhi.,Delhi,LOC
+OpenAI filed a case under Section 377 in Mumbai.,Section 377,PROVISION
+OpenAI filed a case under Section 377 in Mumbai.,OpenAI,ORG
+OpenAI filed a case under Section 377 in Mumbai.,Mumbai,LOC
+The agreement was made between Aarav Mehta and Tata Group on 12.01.2022.,Aarav Mehta,PERSON
+The agreement was made between Aarav Mehta and Tata Group on 12.01.2022.,12.01.2022,DATE
+The agreement was made between Aarav Mehta and Tata Group on 12.01.2022.,Tata Group,ORG
+The agreement was made between Anita Kapoor and Tata Group on 12.01.2022.,Anita Kapoor,PERSON
+The agreement was made between Anita Kapoor and Tata Group on 12.01.2022.,12.01.2022,DATE
+The agreement was made between Anita Kapoor and Tata Group on 12.01.2022.,Tata Group,ORG
+Aarav Mehta from Delhi challenged Section 54 on 31st December 2024.,Aarav Mehta,PERSON
+Aarav Mehta from Delhi challenged Section 54 on 31st December 2024.,31st December 2024,DATE
+Aarav Mehta from Delhi challenged Section 54 on 31st December 2024.,Section 54,PROVISION
+Aarav Mehta from Delhi challenged Section 54 on 31st December 2024.,Delhi,LOC
+United Nations announced a policy change on 2022/01/12 in accordance with Data Protection Act.,12-01-2022,DATE
+United Nations announced a policy change on 2022/01/12 in accordance with Data Protection Act.,Data Protection Act,PROVISION
+United Nations announced a policy change on 2022/01/12 in accordance with Data Protection Act.,United Nations,ORG
+Emma Watson signed the contract on 31st December 2024 under Section 377.,Emma Watson,PERSON
+Emma Watson signed the contract on 31st December 2024 under Section 377.,31st December 2024,DATE
+Emma Watson signed the contract on 31st December 2024 under Section 377.,Section 377,PROVISION
+"Anita Kapoor signed the contract on March 5, 2023 under Section 54.",Anita Kapoor,PERSON
+"Anita Kapoor signed the contract on March 5, 2023 under Section 54.","March 5, 2023",DATE
+"Anita Kapoor signed the contract on March 5, 2023 under Section 54.",Section 54,PROVISION
+OpenAI announced a policy change on 2022/01/12 in accordance with Article 21.,12-01-2022,DATE
+OpenAI announced a policy change on 2022/01/12 in accordance with Article 21.,Article 21,PROVISION
+OpenAI announced a policy change on 2022/01/12 in accordance with Article 21.,OpenAI,ORG
+Ravi Kumar from Mumbai challenged Criminal Procedure Code on 12.01.2022.,Ravi Kumar,PERSON
+Ravi Kumar from Mumbai challenged Criminal Procedure Code on 12.01.2022.,12.01.2022,DATE
+Ravi Kumar from Mumbai challenged Criminal Procedure Code on 12.01.2022.,Criminal Procedure Code,PROVISION
+Ravi Kumar from Mumbai challenged Criminal Procedure Code on 12.01.2022.,Mumbai,LOC
+OpenAI announced a policy change on 2022/01/12 in accordance with Criminal Procedure Code.,12-01-2022,DATE
+OpenAI announced a policy change on 2022/01/12 in accordance with Criminal Procedure Code.,Criminal Procedure Code,PROVISION
+OpenAI announced a policy change on 2022/01/12 in accordance with Criminal Procedure Code.,OpenAI,ORG
+The agreement was made between Aarav Mehta and Infosys on 12th Jan 2022.,Aarav Mehta,PERSON
+The agreement was made between Aarav Mehta and Infosys on 12th Jan 2022.,12th Jan 2022,DATE
+The agreement was made between Aarav Mehta and Infosys on 12th Jan 2022.,Infosys,ORG
+"According to Data Protection Act, the meeting in Delhi was justified.",Data Protection Act,PROVISION
+"According to Data Protection Act, the meeting in Delhi was justified.",Delhi,LOC
+Infosys filed a case under Section 54 in Delhi.,Section 54,PROVISION
+Infosys filed a case under Section 54 in Delhi.,Infosys,ORG
+Infosys filed a case under Section 54 in Delhi.,Delhi,LOC
+The agreement was made between Anita Kapoor and OpenAI on 31st December 2024.,Anita Kapoor,PERSON
+The agreement was made between Anita Kapoor and OpenAI on 31st December 2024.,31st December 2024,DATE
+The agreement was made between Anita Kapoor and OpenAI on 31st December 2024.,OpenAI,ORG
+The agreement was made between Aarav Mehta and Google LLC on 31st December 2024.,Aarav Mehta,PERSON
+The agreement was made between Aarav Mehta and Google LLC on 31st December 2024.,31st December 2024,DATE
+The agreement was made between Aarav Mehta and Google LLC on 31st December 2024.,Google LLC,ORG
+The agreement was made between Emma Watson and Tata Group on 12th Jan 2022.,Emma Watson,PERSON
+The agreement was made between Emma Watson and Tata Group on 12th Jan 2022.,12th Jan 2022,DATE
+The agreement was made between Emma Watson and Tata Group on 12th Jan 2022.,Tata Group,ORG
+"According to Section 377, the meeting in Mumbai was justified.",Section 377,PROVISION
+"According to Section 377, the meeting in Mumbai was justified.",Mumbai,LOC
+The agreement was made between John Smith and Infosys on 2022/01/12.,John Smith,PERSON
+The agreement was made between John Smith and Infosys on 2022/01/12.,12-01-2022,DATE
+The agreement was made between John Smith and Infosys on 2022/01/12.,Infosys,ORG
+Emma Watson from New York challenged Data Protection Act on 12th Jan 2022.,Emma Watson,PERSON
+Emma Watson from New York challenged Data Protection Act on 12th Jan 2022.,12th Jan 2022,DATE
+Emma Watson from New York challenged Data Protection Act on 12th Jan 2022.,Data Protection Act,PROVISION
+Emma Watson from New York challenged Data Protection Act on 12th Jan 2022.,New York,LOC
+Tata Group filed a case under Article 21 in Bangalore.,Article 21,PROVISION
+Tata Group filed a case under Article 21 in Bangalore.,Tata Group,ORG
+Tata Group filed a case under Article 21 in Bangalore.,Bangalore,LOC
+"According to Criminal Procedure Code, the meeting in Delhi was justified.",Criminal Procedure Code,PROVISION
+"According to Criminal Procedure Code, the meeting in Delhi was justified.",Delhi,LOC
+"According to Section 377, the meeting in Bangalore was justified.",Section 377,PROVISION
+"According to Section 377, the meeting in Bangalore was justified.",Bangalore,LOC
+Google LLC announced a policy change on 12th Jan 2022 in accordance with Article 21.,12th Jan 2022,DATE
+Google LLC announced a policy change on 12th Jan 2022 in accordance with Article 21.,Article 21,PROVISION
+Google LLC announced a policy change on 12th Jan 2022 in accordance with Article 21.,Google LLC,ORG
+Anita Kapoor from Bangalore challenged Data Protection Act on 31st December 2024.,Anita Kapoor,PERSON
+Anita Kapoor from Bangalore challenged Data Protection Act on 31st December 2024.,31st December 2024,DATE
+Anita Kapoor from Bangalore challenged Data Protection Act on 31st December 2024.,Data Protection Act,PROVISION
+Anita Kapoor from Bangalore challenged Data Protection Act on 31st December 2024.,Bangalore,LOC
+Aarav Mehta signed the contract on 31st December 2024 under Article 21.,Aarav Mehta,PERSON
+Aarav Mehta signed the contract on 31st December 2024 under Article 21.,31st December 2024,DATE
+Aarav Mehta signed the contract on 31st December 2024 under Article 21.,Article 21,PROVISION
+The agreement was made between Aarav Mehta and OpenAI on 2022/01/12.,Aarav Mehta,PERSON
+The agreement was made between Aarav Mehta and OpenAI on 2022/01/12.,12-01-2022,DATE
+The agreement was made between Aarav Mehta and OpenAI on 2022/01/12.,OpenAI,ORG
+Tata Group filed a case under Criminal Procedure Code in Mumbai.,Criminal Procedure Code,PROVISION
+Tata Group filed a case under Criminal Procedure Code in Mumbai.,Tata Group,ORG
+Tata Group filed a case under Criminal Procedure Code in Mumbai.,Mumbai,LOC
+Ravi Kumar from Delhi challenged Section 54 on 12.01.2022.,Ravi Kumar,PERSON
+Ravi Kumar from Delhi challenged Section 54 on 12.01.2022.,12.01.2022,DATE
+Ravi Kumar from Delhi challenged Section 54 on 12.01.2022.,Section 54,PROVISION
+Ravi Kumar from Delhi challenged Section 54 on 12.01.2022.,Delhi,LOC
+"John Smith from New York challenged Section 54 on March 5, 2023.",John Smith,PERSON
+"John Smith from New York challenged Section 54 on March 5, 2023.","March 5, 2023",DATE
+"John Smith from New York challenged Section 54 on March 5, 2023.",Section 54,PROVISION
+"John Smith from New York challenged Section 54 on March 5, 2023.",New York,LOC
+"According to Article 21, the meeting in Delhi was justified.",Article 21,PROVISION
+"According to Article 21, the meeting in Delhi was justified.",Delhi,LOC
+Infosys filed a case under Data Protection Act in New York.,Data Protection Act,PROVISION
+Infosys filed a case under Data Protection Act in New York.,Infosys,ORG
+Infosys filed a case under Data Protection Act in New York.,New York,LOC
+"Google LLC announced a policy change on March 5, 2023 in accordance with Criminal Procedure Code.","March 5, 2023",DATE
+"Google LLC announced a policy change on March 5, 2023 in accordance with Criminal Procedure Code.",Criminal Procedure Code,PROVISION
+"Google LLC announced a policy change on March 5, 2023 in accordance with Criminal Procedure Code.",Google LLC,ORG
+Aarav Mehta signed the contract on 12.01.2022 under Section 377.,Aarav Mehta,PERSON
+Aarav Mehta signed the contract on 12.01.2022 under Section 377.,12.01.2022,DATE
+Aarav Mehta signed the contract on 12.01.2022 under Section 377.,Section 377,PROVISION
+Emma Watson from Bangalore challenged Data Protection Act on 2022/01/12.,Emma Watson,PERSON
+Emma Watson from Bangalore challenged Data Protection Act on 2022/01/12.,12-01-2022,DATE
+Emma Watson from Bangalore challenged Data Protection Act on 2022/01/12.,Data Protection Act,PROVISION
+Emma Watson from Bangalore challenged Data Protection Act on 2022/01/12.,Bangalore,LOC
+Aarav Mehta from New York challenged Data Protection Act on 12.01.2022.,Aarav Mehta,PERSON
+Aarav Mehta from New York challenged Data Protection Act on 12.01.2022.,12.01.2022,DATE
+Aarav Mehta from New York challenged Data Protection Act on 12.01.2022.,Data Protection Act,PROVISION
+Aarav Mehta from New York challenged Data Protection Act on 12.01.2022.,New York,LOC
+United Nations filed a case under Section 54 in New York.,Section 54,PROVISION
+United Nations filed a case under Section 54 in New York.,United Nations,ORG
+United Nations filed a case under Section 54 in New York.,New York,LOC
+OpenAI filed a case under Criminal Procedure Code in Bangalore.,Criminal Procedure Code,PROVISION
+OpenAI filed a case under Criminal Procedure Code in Bangalore.,OpenAI,ORG
+OpenAI filed a case under Criminal Procedure Code in Bangalore.,Bangalore,LOC
+OpenAI filed a case under Section 54 in New York.,Section 54,PROVISION
+OpenAI filed a case under Section 54 in New York.,OpenAI,ORG
+OpenAI filed a case under Section 54 in New York.,New York,LOC
+Google LLC filed a case under Criminal Procedure Code in London.,Criminal Procedure Code,PROVISION
+Google LLC filed a case under Criminal Procedure Code in London.,Google LLC,ORG
+Google LLC filed a case under Criminal Procedure Code in London.,London,LOC
+"Ravi Kumar signed the contract on March 5, 2023 under Section 54.",Ravi Kumar,PERSON
+"Ravi Kumar signed the contract on March 5, 2023 under Section 54.","March 5, 2023",DATE
+"Ravi Kumar signed the contract on March 5, 2023 under Section 54.",Section 54,PROVISION
+OpenAI filed a case under Data Protection Act in London.,Data Protection Act,PROVISION
+OpenAI filed a case under Data Protection Act in London.,OpenAI,ORG
+OpenAI filed a case under Data Protection Act in London.,London,LOC
+"United Nations announced a policy change on March 5, 2023 in accordance with Criminal Procedure Code.","March 5, 2023",DATE
+"United Nations announced a policy change on March 5, 2023 in accordance with Criminal Procedure Code.",Criminal Procedure Code,PROVISION
+"United Nations announced a policy change on March 5, 2023 in accordance with Criminal Procedure Code.",United Nations,ORG
+Infosys filed a case under Section 54 in Bangalore.,Section 54,PROVISION
+Infosys filed a case under Section 54 in Bangalore.,Infosys,ORG
+Infosys filed a case under Section 54 in Bangalore.,Bangalore,LOC
+Tata Group filed a case under Section 377 in Bangalore.,Section 377,PROVISION
+Tata Group filed a case under Section 377 in Bangalore.,Tata Group,ORG
+Tata Group filed a case under Section 377 in Bangalore.,Bangalore,LOC
+"United Nations announced a policy change on March 5, 2023 in accordance with Section 54.","March 5, 2023",DATE
+"United Nations announced a policy change on March 5, 2023 in accordance with Section 54.",Section 54,PROVISION
+"United Nations announced a policy change on March 5, 2023 in accordance with Section 54.",United Nations,ORG
+OpenAI announced a policy change on 12th Jan 2022 in accordance with Criminal Procedure Code.,12th Jan 2022,DATE
+OpenAI announced a policy change on 12th Jan 2022 in accordance with Criminal Procedure Code.,Criminal Procedure Code,PROVISION
+OpenAI announced a policy change on 12th Jan 2022 in accordance with Criminal Procedure Code.,OpenAI,ORG
+Anita Kapoor signed the contract on 12.01.2022 under Section 54.,Anita Kapoor,PERSON
+Anita Kapoor signed the contract on 12.01.2022 under Section 54.,12.01.2022,DATE
+Anita Kapoor signed the contract on 12.01.2022 under Section 54.,Section 54,PROVISION
+Infosys filed a case under Data Protection Act in Delhi.,Data Protection Act,PROVISION
+Infosys filed a case under Data Protection Act in Delhi.,Infosys,ORG
+Infosys filed a case under Data Protection Act in Delhi.,Delhi,LOC
+Emma Watson from Delhi challenged Data Protection Act on 2022/01/12.,Emma Watson,PERSON
+Emma Watson from Delhi challenged Data Protection Act on 2022/01/12.,12-01-2022,DATE
+Emma Watson from Delhi challenged Data Protection Act on 2022/01/12.,Data Protection Act,PROVISION
+Emma Watson from Delhi challenged Data Protection Act on 2022/01/12.,Delhi,LOC
+Infosys announced a policy change on 2022/01/12 in accordance with Data Protection Act.,12-01-2022,DATE
+Infosys announced a policy change on 2022/01/12 in accordance with Data Protection Act.,Data Protection Act,PROVISION
+Infosys announced a policy change on 2022/01/12 in accordance with Data Protection Act.,Infosys,ORG
+OpenAI announced a policy change on 2022/01/12 in accordance with Section 377.,12-01-2022,DATE
+OpenAI announced a policy change on 2022/01/12 in accordance with Section 377.,Section 377,PROVISION
+OpenAI announced a policy change on 2022/01/12 in accordance with Section 377.,OpenAI,ORG
+United Nations announced a policy change on 12th Jan 2022 in accordance with Article 21.,12th Jan 2022,DATE
+United Nations announced a policy change on 12th Jan 2022 in accordance with Article 21.,Article 21,PROVISION
+United Nations announced a policy change on 12th Jan 2022 in accordance with Article 21.,United Nations,ORG
+"Ravi Kumar signed the contract on March 5, 2023 under Section 54.",Ravi Kumar,PERSON
+"Ravi Kumar signed the contract on March 5, 2023 under Section 54.","March 5, 2023",DATE
+"Ravi Kumar signed the contract on March 5, 2023 under Section 54.",Section 54,PROVISION
+"The agreement was made between Ravi Kumar and Google LLC on March 5, 2023.",Ravi Kumar,PERSON
+"The agreement was made between Ravi Kumar and Google LLC on March 5, 2023.","March 5, 2023",DATE
+"The agreement was made between Ravi Kumar and Google LLC on March 5, 2023.",Google LLC,ORG
+Ravi Kumar signed the contract on 2022/01/12 under Section 377.,Ravi Kumar,PERSON
+Ravi Kumar signed the contract on 2022/01/12 under Section 377.,12-01-2022,DATE
+Ravi Kumar signed the contract on 2022/01/12 under Section 377.,Section 377,PROVISION
+"According to Section 377, the meeting in New York was justified.",Section 377,PROVISION
+"According to Section 377, the meeting in New York was justified.",New York,LOC
+"According to Section 54, the meeting in New York was justified.",Section 54,PROVISION
+"According to Section 54, the meeting in New York was justified.",New York,LOC
+"According to Data Protection Act, the meeting in New York was justified.",Data Protection Act,PROVISION
+"According to Data Protection Act, the meeting in New York was justified.",New York,LOC
+"According to Criminal Procedure Code, the meeting in Bangalore was justified.",Criminal Procedure Code,PROVISION
+"According to Criminal Procedure Code, the meeting in Bangalore was justified.",Bangalore,LOC
+OpenAI announced a policy change on 12th Jan 2022 in accordance with Article 21.,12th Jan 2022,DATE
+OpenAI announced a policy change on 12th Jan 2022 in accordance with Article 21.,Article 21,PROVISION
+OpenAI announced a policy change on 12th Jan 2022 in accordance with Article 21.,OpenAI,ORG
+The agreement was made between Anita Kapoor and Google LLC on 12.01.2022.,Anita Kapoor,PERSON
+The agreement was made between Anita Kapoor and Google LLC on 12.01.2022.,12.01.2022,DATE
+The agreement was made between Anita Kapoor and Google LLC on 12.01.2022.,Google LLC,ORG
+Anita Kapoor from Bangalore challenged Section 54 on 12th Jan 2022.,Anita Kapoor,PERSON
+Anita Kapoor from Bangalore challenged Section 54 on 12th Jan 2022.,12th Jan 2022,DATE
+Anita Kapoor from Bangalore challenged Section 54 on 12th Jan 2022.,Section 54,PROVISION
+Anita Kapoor from Bangalore challenged Section 54 on 12th Jan 2022.,Bangalore,LOC
+"Ravi Kumar signed the contract on March 5, 2023 under Data Protection Act.",Ravi Kumar,PERSON
+"Ravi Kumar signed the contract on March 5, 2023 under Data Protection Act.","March 5, 2023",DATE
+"Ravi Kumar signed the contract on March 5, 2023 under Data Protection Act.",Data Protection Act,PROVISION
+Google LLC announced a policy change on 2022/01/12 in accordance with Section 377.,12-01-2022,DATE
+Google LLC announced a policy change on 2022/01/12 in accordance with Section 377.,Section 377,PROVISION
+Google LLC announced a policy change on 2022/01/12 in accordance with Section 377.,Google LLC,ORG
+John Smith from London challenged Section 54 on 12th Jan 2022.,John Smith,PERSON
+John Smith from London challenged Section 54 on 12th Jan 2022.,12th Jan 2022,DATE
+John Smith from London challenged Section 54 on 12th Jan 2022.,Section 54,PROVISION
+John Smith from London challenged Section 54 on 12th Jan 2022.,London,LOC
+Tata Group filed a case under Section 54 in Bangalore.,Section 54,PROVISION
+Tata Group filed a case under Section 54 in Bangalore.,Tata Group,ORG
+Tata Group filed a case under Section 54 in Bangalore.,Bangalore,LOC
+Ravi Kumar signed the contract on 2022/01/12 under Section 54.,Ravi Kumar,PERSON
+Ravi Kumar signed the contract on 2022/01/12 under Section 54.,12-01-2022,DATE
+Ravi Kumar signed the contract on 2022/01/12 under Section 54.,Section 54,PROVISION
+United Nations filed a case under Article 21 in Mumbai.,Article 21,PROVISION
+United Nations filed a case under Article 21 in Mumbai.,United Nations,ORG
+United Nations filed a case under Article 21 in Mumbai.,Mumbai,LOC
+John Smith signed the contract on 2022/01/12 under Article 21.,John Smith,PERSON
+John Smith signed the contract on 2022/01/12 under Article 21.,12-01-2022,DATE
+John Smith signed the contract on 2022/01/12 under Article 21.,Article 21,PROVISION
+"According to Section 377, the meeting in New York was justified.",Section 377,PROVISION
+"According to Section 377, the meeting in New York was justified.",New York,LOC
+Tata Group filed a case under Criminal Procedure Code in Mumbai.,Criminal Procedure Code,PROVISION
+Tata Group filed a case under Criminal Procedure Code in Mumbai.,Tata Group,ORG
+Tata Group filed a case under Criminal Procedure Code in Mumbai.,Mumbai,LOC
+Ravi Kumar from Bangalore challenged Data Protection Act on 31st December 2024.,Ravi Kumar,PERSON
+Ravi Kumar from Bangalore challenged Data Protection Act on 31st December 2024.,31st December 2024,DATE
+Ravi Kumar from Bangalore challenged Data Protection Act on 31st December 2024.,Data Protection Act,PROVISION
+Ravi Kumar from Bangalore challenged Data Protection Act on 31st December 2024.,Bangalore,LOC
+Emma Watson from Mumbai challenged Article 21 on 12th Jan 2022.,Emma Watson,PERSON
+Emma Watson from Mumbai challenged Article 21 on 12th Jan 2022.,12th Jan 2022,DATE
+Emma Watson from Mumbai challenged Article 21 on 12th Jan 2022.,Article 21,PROVISION
+Emma Watson from Mumbai challenged Article 21 on 12th Jan 2022.,Mumbai,LOC
+Emma Watson signed the contract on 12.01.2022 under Section 377.,Emma Watson,PERSON
+Emma Watson signed the contract on 12.01.2022 under Section 377.,12.01.2022,DATE
+Emma Watson signed the contract on 12.01.2022 under Section 377.,Section 377,PROVISION
+"According to Data Protection Act, the meeting in Bangalore was justified.",Data Protection Act,PROVISION
+"According to Data Protection Act, the meeting in Bangalore was justified.",Bangalore,LOC
+OpenAI filed a case under Section 377 in New York.,Section 377,PROVISION
+OpenAI filed a case under Section 377 in New York.,OpenAI,ORG
+OpenAI filed a case under Section 377 in New York.,New York,LOC
+"Aarav Mehta from New York challenged Data Protection Act on March 5, 2023.",Aarav Mehta,PERSON
+"Aarav Mehta from New York challenged Data Protection Act on March 5, 2023.","March 5, 2023",DATE
+"Aarav Mehta from New York challenged Data Protection Act on March 5, 2023.",Data Protection Act,PROVISION
+"Aarav Mehta from New York challenged Data Protection Act on March 5, 2023.",New York,LOC
+"Emma Watson from Mumbai challenged Data Protection Act on March 5, 2023.",Emma Watson,PERSON
+"Emma Watson from Mumbai challenged Data Protection Act on March 5, 2023.","March 5, 2023",DATE
+"Emma Watson from Mumbai challenged Data Protection Act on March 5, 2023.",Data Protection Act,PROVISION
+"Emma Watson from Mumbai challenged Data Protection Act on March 5, 2023.",Mumbai,LOC
+Tata Group filed a case under Article 21 in London.,Article 21,PROVISION
+Tata Group filed a case under Article 21 in London.,Tata Group,ORG
+Tata Group filed a case under Article 21 in London.,London,LOC
+John Smith from Delhi challenged Article 21 on 2022/01/12.,John Smith,PERSON
+John Smith from Delhi challenged Article 21 on 2022/01/12.,12-01-2022,DATE
+John Smith from Delhi challenged Article 21 on 2022/01/12.,Article 21,PROVISION
+John Smith from Delhi challenged Article 21 on 2022/01/12.,Delhi,LOC
+Infosys announced a policy change on 12th Jan 2022 in accordance with Section 377.,12th Jan 2022,DATE
+Infosys announced a policy change on 12th Jan 2022 in accordance with Section 377.,Section 377,PROVISION
+Infosys announced a policy change on 12th Jan 2022 in accordance with Section 377.,Infosys,ORG
+OpenAI announced a policy change on 12th Jan 2022 in accordance with Section 377.,12th Jan 2022,DATE
+OpenAI announced a policy change on 12th Jan 2022 in accordance with Section 377.,Section 377,PROVISION
+OpenAI announced a policy change on 12th Jan 2022 in accordance with Section 377.,OpenAI,ORG
+"Tata Group announced a policy change on March 5, 2023 in accordance with Data Protection Act.","March 5, 2023",DATE
+"Tata Group announced a policy change on March 5, 2023 in accordance with Data Protection Act.",Data Protection Act,PROVISION
+"Tata Group announced a policy change on March 5, 2023 in accordance with Data Protection Act.",Tata Group,ORG
+Ravi Kumar signed the contract on 12.01.2022 under Article 21.,Ravi Kumar,PERSON
+Ravi Kumar signed the contract on 12.01.2022 under Article 21.,12.01.2022,DATE
+Ravi Kumar signed the contract on 12.01.2022 under Article 21.,Article 21,PROVISION
+The agreement was made between Anita Kapoor and OpenAI on 12.01.2022.,Anita Kapoor,PERSON
+The agreement was made between Anita Kapoor and OpenAI on 12.01.2022.,12.01.2022,DATE
+The agreement was made between Anita Kapoor and OpenAI on 12.01.2022.,OpenAI,ORG
+"According to Section 377, the meeting in Bangalore was justified.",Section 377,PROVISION
+"According to Section 377, the meeting in Bangalore was justified.",Bangalore,LOC
+Emma Watson signed the contract on 12th Jan 2022 under Criminal Procedure Code.,Emma Watson,PERSON
+Emma Watson signed the contract on 12th Jan 2022 under Criminal Procedure Code.,12th Jan 2022,DATE
+Emma Watson signed the contract on 12th Jan 2022 under Criminal Procedure Code.,Criminal Procedure Code,PROVISION
+"According to Section 377, the meeting in London was justified.",Section 377,PROVISION
+"According to Section 377, the meeting in London was justified.",London,LOC
+Aarav Mehta from Delhi challenged Data Protection Act on 2022/01/12.,Aarav Mehta,PERSON
+Aarav Mehta from Delhi challenged Data Protection Act on 2022/01/12.,12-01-2022,DATE
+Aarav Mehta from Delhi challenged Data Protection Act on 2022/01/12.,Data Protection Act,PROVISION
+Aarav Mehta from Delhi challenged Data Protection Act on 2022/01/12.,Delhi,LOC
+"Ravi Kumar signed the contract on March 5, 2023 under Article 21.",Ravi Kumar,PERSON
+"Ravi Kumar signed the contract on March 5, 2023 under Article 21.","March 5, 2023",DATE
+"Ravi Kumar signed the contract on March 5, 2023 under Article 21.",Article 21,PROVISION
+"According to Article 21, the meeting in London was justified.",Article 21,PROVISION
+"According to Article 21, the meeting in London was justified.",London,LOC
+John Smith signed the contract on 2022/01/12 under Section 377.,John Smith,PERSON
+John Smith signed the contract on 2022/01/12 under Section 377.,12-01-2022,DATE
+John Smith signed the contract on 2022/01/12 under Section 377.,Section 377,PROVISION
+"According to Article 21, the meeting in Bangalore was justified.",Article 21,PROVISION
+"According to Article 21, the meeting in Bangalore was justified.",Bangalore,LOC
+"Anita Kapoor from New York challenged Article 21 on March 5, 2023.",Anita Kapoor,PERSON
+"Anita Kapoor from New York challenged Article 21 on March 5, 2023.","March 5, 2023",DATE
+"Anita Kapoor from New York challenged Article 21 on March 5, 2023.",Article 21,PROVISION
+"Anita Kapoor from New York challenged Article 21 on March 5, 2023.",New York,LOC
+Emma Watson from New York challenged Section 377 on 12.01.2022.,Emma Watson,PERSON
+Emma Watson from New York challenged Section 377 on 12.01.2022.,12.01.2022,DATE
+Emma Watson from New York challenged Section 377 on 12.01.2022.,Section 377,PROVISION
+Emma Watson from New York challenged Section 377 on 12.01.2022.,New York,LOC
+"Anita Kapoor from Bangalore challenged Article 21 on March 5, 2023.",Anita Kapoor,PERSON
+"Anita Kapoor from Bangalore challenged Article 21 on March 5, 2023.","March 5, 2023",DATE
+"Anita Kapoor from Bangalore challenged Article 21 on March 5, 2023.",Article 21,PROVISION
+"Anita Kapoor from Bangalore challenged Article 21 on March 5, 2023.",Bangalore,LOC
+Emma Watson signed the contract on 2022/01/12 under Data Protection Act.,Emma Watson,PERSON
+Emma Watson signed the contract on 2022/01/12 under Data Protection Act.,12-01-2022,DATE
+Emma Watson signed the contract on 2022/01/12 under Data Protection Act.,Data Protection Act,PROVISION
+The agreement was made between Anita Kapoor and Tata Group on 12th Jan 2022.,Anita Kapoor,PERSON
+The agreement was made between Anita Kapoor and Tata Group on 12th Jan 2022.,12th Jan 2022,DATE
+The agreement was made between Anita Kapoor and Tata Group on 12th Jan 2022.,Tata Group,ORG
+"The agreement was made between Aarav Mehta and Google LLC on March 5, 2023.",Aarav Mehta,PERSON
+"The agreement was made between Aarav Mehta and Google LLC on March 5, 2023.","March 5, 2023",DATE
+"The agreement was made between Aarav Mehta and Google LLC on March 5, 2023.",Google LLC,ORG
+John Smith from New York challenged Section 377 on 31st December 2024.,John Smith,PERSON
+John Smith from New York challenged Section 377 on 31st December 2024.,31st December 2024,DATE
+John Smith from New York challenged Section 377 on 31st December 2024.,Section 377,PROVISION
+John Smith from New York challenged Section 377 on 31st December 2024.,New York,LOC
+"According to Criminal Procedure Code, the meeting in London was justified.",Criminal Procedure Code,PROVISION
+"According to Criminal Procedure Code, the meeting in London was justified.",London,LOC
+"Ravi Kumar signed the contract on March 5, 2023 under Section 54.",Ravi Kumar,PERSON
+"Ravi Kumar signed the contract on March 5, 2023 under Section 54.","March 5, 2023",DATE
+"Ravi Kumar signed the contract on March 5, 2023 under Section 54.",Section 54,PROVISION
+Tata Group filed a case under Data Protection Act in Delhi.,Data Protection Act,PROVISION
+Tata Group filed a case under Data Protection Act in Delhi.,Tata Group,ORG
+Tata Group filed a case under Data Protection Act in Delhi.,Delhi,LOC
+Infosys announced a policy change on 12th Jan 2022 in accordance with Section 377.,12th Jan 2022,DATE
+Infosys announced a policy change on 12th Jan 2022 in accordance with Section 377.,Section 377,PROVISION
+Infosys announced a policy change on 12th Jan 2022 in accordance with Section 377.,Infosys,ORG
+"According to Criminal Procedure Code, the meeting in Mumbai was justified.",Criminal Procedure Code,PROVISION
+"According to Criminal Procedure Code, the meeting in Mumbai was justified.",Mumbai,LOC
+Anita Kapoor from Bangalore challenged Criminal Procedure Code on 12th Jan 2022.,Anita Kapoor,PERSON
+Anita Kapoor from Bangalore challenged Criminal Procedure Code on 12th Jan 2022.,12th Jan 2022,DATE
+Anita Kapoor from Bangalore challenged Criminal Procedure Code on 12th Jan 2022.,Criminal Procedure Code,PROVISION
+Anita Kapoor from Bangalore challenged Criminal Procedure Code on 12th Jan 2022.,Bangalore,LOC
+Tata Group filed a case under Data Protection Act in Delhi.,Data Protection Act,PROVISION
+Tata Group filed a case under Data Protection Act in Delhi.,Tata Group,ORG
+Tata Group filed a case under Data Protection Act in Delhi.,Delhi,LOC
+The agreement was made between John Smith and Google LLC on 31st December 2024.,John Smith,PERSON
+The agreement was made between John Smith and Google LLC on 31st December 2024.,31st December 2024,DATE
+The agreement was made between John Smith and Google LLC on 31st December 2024.,Google LLC,ORG
+"According to Section 377, the meeting in Mumbai was justified.",Section 377,PROVISION
+"According to Section 377, the meeting in Mumbai was justified.",Mumbai,LOC
+Infosys filed a case under Section 377 in Delhi.,Section 377,PROVISION
+Infosys filed a case under Section 377 in Delhi.,Infosys,ORG
+Infosys filed a case under Section 377 in Delhi.,Delhi,LOC
+"According to Section 377, the meeting in Bangalore was justified.",Section 377,PROVISION
+"According to Section 377, the meeting in Bangalore was justified.",Bangalore,LOC
+Aarav Mehta signed the contract on 2022/01/12 under Data Protection Act.,Aarav Mehta,PERSON
+Aarav Mehta signed the contract on 2022/01/12 under Data Protection Act.,12-01-2022,DATE
+Aarav Mehta signed the contract on 2022/01/12 under Data Protection Act.,Data Protection Act,PROVISION
+The agreement was made between Anita Kapoor and Tata Group on 12th Jan 2022.,Anita Kapoor,PERSON
+The agreement was made between Anita Kapoor and Tata Group on 12th Jan 2022.,12th Jan 2022,DATE
+The agreement was made between Anita Kapoor and Tata Group on 12th Jan 2022.,Tata Group,ORG
+The agreement was made between Anita Kapoor and OpenAI on 12.01.2022.,Anita Kapoor,PERSON
+The agreement was made between Anita Kapoor and OpenAI on 12.01.2022.,12.01.2022,DATE
+The agreement was made between Anita Kapoor and OpenAI on 12.01.2022.,OpenAI,ORG
+Emma Watson signed the contract on 12th Jan 2022 under Article 21.,Emma Watson,PERSON
+Emma Watson signed the contract on 12th Jan 2022 under Article 21.,12th Jan 2022,DATE
+Emma Watson signed the contract on 12th Jan 2022 under Article 21.,Article 21,PROVISION
+Aarav Mehta from London challenged Data Protection Act on 2022/01/12.,Aarav Mehta,PERSON
+Aarav Mehta from London challenged Data Protection Act on 2022/01/12.,12-01-2022,DATE
+Aarav Mehta from London challenged Data Protection Act on 2022/01/12.,Data Protection Act,PROVISION
+Aarav Mehta from London challenged Data Protection Act on 2022/01/12.,London,LOC
+Emma Watson from New York challenged Article 21 on 2022/01/12.,Emma Watson,PERSON
+Emma Watson from New York challenged Article 21 on 2022/01/12.,12-01-2022,DATE
+Emma Watson from New York challenged Article 21 on 2022/01/12.,Article 21,PROVISION
+Emma Watson from New York challenged Article 21 on 2022/01/12.,New York,LOC
+Google LLC filed a case under Section 54 in Mumbai.,Section 54,PROVISION
+Google LLC filed a case under Section 54 in Mumbai.,Google LLC,ORG
+Google LLC filed a case under Section 54 in Mumbai.,Mumbai,LOC
+Emma Watson from Bangalore challenged Section 54 on 31st December 2024.,Emma Watson,PERSON
+Emma Watson from Bangalore challenged Section 54 on 31st December 2024.,31st December 2024,DATE
+Emma Watson from Bangalore challenged Section 54 on 31st December 2024.,Section 54,PROVISION
+Emma Watson from Bangalore challenged Section 54 on 31st December 2024.,Bangalore,LOC
+The agreement was made between Ravi Kumar and OpenAI on 2022/01/12.,Ravi Kumar,PERSON
+The agreement was made between Ravi Kumar and OpenAI on 2022/01/12.,12-01-2022,DATE
+The agreement was made between Ravi Kumar and OpenAI on 2022/01/12.,OpenAI,ORG
+"John Smith from Delhi challenged Data Protection Act on March 5, 2023.",John Smith,PERSON
+"John Smith from Delhi challenged Data Protection Act on March 5, 2023.","March 5, 2023",DATE
+"John Smith from Delhi challenged Data Protection Act on March 5, 2023.",Data Protection Act,PROVISION
+"John Smith from Delhi challenged Data Protection Act on March 5, 2023.",Delhi,LOC
